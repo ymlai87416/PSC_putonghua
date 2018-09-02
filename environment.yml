@@ -1,0 +1,13 @@
+name: psc-putonghua
+channels:
+    - https://conda.anaconda.org/menpo
+    - conda-forge
+dependencies:
+    - python==3.5.2
+    - numpy
+    - beautifulsoup4
+    - requests
+    - lxml
+    - pandas
+    - matplotlib
+    - jupyter
